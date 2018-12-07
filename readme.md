@@ -1,6 +1,12 @@
+__Info__
+
+If you are using our code, cite our paper:
+
+Dimitris Berberidis, Athanasios N. Nikolakopoulos, and Georgios B. Giannakis, "Adaptive Diffusions for Scalable Learning over Graphs", 2018
+
 __OVERVIEW__
 
-Programm __SSL__ implements and runs tests for different __semi-supervised learing__ methods on __multiclass or multilabel__ graphs with available groundtruth labels. 
+__SSL__ implements and runs tests for different __semi-supervised learning__ methods on __multiclass or multilabel__ graphs with available ground-truth labels. 
 
 Two modes available:
 - __test__: Takes as input a graph and labels over all nodes. Randomly sumples a number of nodes (`num_seeds`) and predicts the labels of teh remaining ones. Experiments are repeated for a predefined number of times (`num_iters`) and the mean Micro F1 and Macro F1 scores are reported.
@@ -8,13 +14,10 @@ Two modes available:
 
 Methods included:
 - PPR: Personalized PageRank
-- TunedRwR: Tuned random walk with restarts ( see [here](https://experts.umn.edu/ws/portalfiles/portal/99184908)  )
-- AdaDIF: Adaptive Diffusions ( see [here](https://arxiv.org/abs/1804.02081) )
-
-If you are using our code, cite our paper:
+- __TunedRwR__: Tuned random walk with restarts ( see [here](https://experts.umn.edu/ws/portalfiles/portal/99184908)  )
+- __AdaDIF__: Adaptive Diffusions ( see [here](https://arxiv.org/abs/1804.02081) )
 
 
-Dimitris Berberidis, Athanasios N. Nikolakopoulos, and Georgios B. Giannakis, "Adaptive Diffusions for Scalable Learning over Graphs", 2018
 
 
 __INPUT FILES FORMAT__
