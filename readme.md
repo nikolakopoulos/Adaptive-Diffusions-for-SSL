@@ -1,6 +1,6 @@
-__Info__
+__GENERAL INFO__
 
-If you are using our code, cite our paper:
+If you are using our code, plese cite our papers:
 
 Dimitris Berberidis, Athanasios N. Nikolakopoulos, and Georgios B. Giannakis, "Adaptive Diffusions for Scalable Learning over Graphs", 2018
 
