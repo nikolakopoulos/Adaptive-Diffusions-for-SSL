@@ -10,7 +10,12 @@ Methods included:
 - PPR: Personalized PageRank
 - TunedRwR: Tuned random walk with restarts ( see [here](https://experts.umn.edu/ws/portalfiles/portal/99184908)  )
 - AdaDIF: Adaptive Diffusions ( see [here](https://arxiv.org/abs/1804.02081) )
-	
+
+If you are using our code, cite our paper:
+
+
+Dimitris Berberidis, Athanasios N. Nikolakopoulos, and Georgios B. Giannakis, "Adaptive Diffusions for Scalable Learning over Graphs", 2018
+
 
 __INPUT FILES FORMAT__
 
