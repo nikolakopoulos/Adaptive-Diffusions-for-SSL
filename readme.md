@@ -15,7 +15,7 @@ Two modes available:
 Methods included:
 - PPR: Personalized PageRank
 - __TunedRwR__: Tuned random walk with restarts ( see [here](https://experts.umn.edu/ws/portalfiles/portal/99184908)  )
-- __AdaDIF__: Adaptive Diffusions ( see [here](https://arxiv.org/abs/1804.02081) )
+- __AdaDIF__: Adaptive Diffusions for Efficient Semi-supervised Learning over Graphs ( see [here](https://arxiv.org/abs/1804.02081) )
 
 
 
