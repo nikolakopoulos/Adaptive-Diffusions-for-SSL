@@ -2,7 +2,7 @@ __GENERAL INFO__
 
 If you are using our code, plese cite our papers:
 
-Dimitris Berberidis, Athanasios N. Nikolakopoulos, and Georgios B. Giannakis, "Adaptive Diffusions for Scalable Learning over Graphs", 2018
+D. Berberidis, A. N. Nikolakopoulos, and G. B. Giannakis, "AdaDIF: Adaptive Diffusions for Efficient Semi-supervised Learning over Graphs," Proc. of IEEE International Conference on Big Data, Seattle, Washington, Dec. 10-13, 2018
 
 __OVERVIEW__
 
