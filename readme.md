@@ -2,7 +2,8 @@ __GENERAL INFO__
 
 If you are using our code, please cite our papers:
 
-D. Berberidis, A. N. Nikolakopoulos, and G. B. Giannakis, "Adaptive Diffusions for Scalable Learning over Graphs," IEEE Transactions on Signal Processing, 2019
+D. Berberidis, A. N. Nikolakopoulos and G. B. Giannakis, "Adaptive Diffusions for Scalable Learning Over Graphs," in IEEE Transactions on Signal Processing, vol. 67, no. 5, pp. 1307-1321, March1, 2019.
+doi: 10.1109/TSP.2018.2889984
 
 D. Berberidis, A. N. Nikolakopoulos, and G. B. Giannakis, "AdaDIF: Adaptive Diffusions for Efficient Semi-supervised Learning over Graphs," Proc. of IEEE International Conference on Big Data, Seattle, Washington, Dec. 10-13, 2018
 
